@@ -10,7 +10,7 @@
 %define ngx_cache_purge_version 1.5
 
 Name:           nginx
-Version:        1.3.1
+Version:        1.3.2
 Release:        1%{?dist}
 Summary:        Robust, small and high performance HTTP and reverse proxy server
 Group:          System Environment/Daemons   
